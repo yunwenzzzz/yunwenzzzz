@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Yunwen! 👋
 
-<!--
-**yunwenzzzz/yunwenzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my **Master's in Signal Processing and Machine Learning** at Tampere University, with a Bachelor's degree in Biomedical Engineering.
 
-Here are some ideas to get you started:
+🔬 **Currently**: Working as a Research Assistant in computational biophysics, focusing on molecular simulations and scientific data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Interested in**:
+
+Artificial Intelligence & Machine Learning
+
+Scientific Computing & Data Analysis
+
+Computer Vision & Biomedical Technology
+
+Interdisciplinary applications of technology
+
+💡 **Previous projects**:
+
+**Molecular Dynamics of Nylon-6** — Coarse-grained polymer modelling and simulation analysis
+
+**Micro-CT Image Segmentation** — Bachelor's thesis on longitudinal object segmentation
+
+🤝 Always excited to learn new things, collaborate with people from different backgrounds, and explore creative ways to solve real-world problems!
